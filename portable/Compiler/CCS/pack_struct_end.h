@@ -27,4 +27,4 @@
  *      and resets warnings that were supressed in pack_struct_start.h.
  */
 ;
-#pragma diag_pop
+#pragma pack(pop)
